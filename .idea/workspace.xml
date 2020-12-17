@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c53a60e-3eaf-49ee-86b9-1b8d2293a597" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ld6nC8gCE6rZHwqTooDawDKsEj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Application.ConditionUseCase">
+    <configuration name="ConditionUseCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.ConditionUseCase" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.CyclicBarrierTest" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreBoundedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.SemaphoreBoundedList" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.SemaphoreCommunication" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.SemaphoreConnect" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConditionUseCase" />
+        <item itemvalue="Application.CyclicBarrierTest" />
+        <item itemvalue="Application.SemaphoreBoundedList" />
+        <item itemvalue="Application.SemaphoreConnect" />
+        <item itemvalue="Application.SemaphoreCommunication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c53a60e-3eaf-49ee-86b9-1b8d2293a597" name="Default Changelist" comment="" />
+      <created>1607914785255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607914785255</updated>
+      <workItem from="1607914786956" duration="61000" />
+      <workItem from="1607915573767" duration="6717000" />
+      <workItem from="1608177689529" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="163" width="388" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1607957871332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" width="388" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607957871332" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1608009712999">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608009710041" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608009712999" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1608009712997">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608009710040" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1608009712997" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1608009712996">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608009710035" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1608009712996" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1608009712998">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608009710041" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1608009712998" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1608009713006">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608009710047" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608009713006" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1608009713004">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1608009710046" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.807@0.25.1440.807" timestamp="1608009713004" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1608009713003">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1608009710042" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.807@0.25.1440.807" timestamp="1608009713003" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1608009713005">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1608009710046" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.807@0.25.1440.807" timestamp="1608009713005" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607916491133">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607916491133" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/le/aqs/CyclicBarrierTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
