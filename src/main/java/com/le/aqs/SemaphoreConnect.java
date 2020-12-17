@@ -68,3 +68,5 @@ class Connection {
         }
     }
 }
+
+ssh-keygen -t ed25519 -C "zl997102814@gmail.com"
