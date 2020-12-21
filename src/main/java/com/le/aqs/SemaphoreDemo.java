@@ -5,7 +5,8 @@ import java.util.concurrent.Semaphore;
 /**
  * 测试Semaphore
  *
- * @author muse
+ * @Author happy_le
+ * @date 2020/12/14 下午11:05
  */
 public class SemaphoreDemo implements Runnable {
 
