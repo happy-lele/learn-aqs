@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c53a60e-3eaf-49ee-86b9-1b8d2293a597" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/ConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/LockInterruptiblyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/LockSupportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/SynchronizedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/le/aqs/SemaphoreConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/SemaphoreConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/le/aqs/SemaphoreLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/le/aqs/SemaphoreLock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +50,47 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/le/aqs" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.ConditionUseCase">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/le/aqs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CyclicBarrierDemo">
     <configuration name="ConditionUseCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.le.aqs.ConditionUseCase" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.CountDownLatchDemo" />
+      <module name="learn-aqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.le.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.le.aqs.CyclicBarrierDemo" />
       <module name="learn-aqs" />
       <extension name="coverage">
         <pattern>
@@ -87,39 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.le.aqs.SemaphoreCommunication" />
-      <module name="learn-aqs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.le.aqs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.le.aqs.SemaphoreConnect" />
-      <module name="learn-aqs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.le.aqs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicBarrierDemo" />
+        <item itemvalue="Application.CountDownLatchDemo" />
         <item itemvalue="Application.ConditionUseCase" />
         <item itemvalue="Application.CyclicBarrierTest" />
         <item itemvalue="Application.SemaphoreBoundedList" />
-        <item itemvalue="Application.SemaphoreConnect" />
-        <item itemvalue="Application.SemaphoreCommunication" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +150,8 @@
       <updated>1607914785255</updated>
       <workItem from="1607914786956" duration="61000" />
       <workItem from="1607915573767" duration="6717000" />
-      <workItem from="1608177689529" duration="512000" />
+      <workItem from="1608177689529" duration="1911000" />
+      <workItem from="1608515814548" duration="1295000" />
     </task>
     <servers />
   </component>
@@ -147,24 +163,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="163" width="388" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607957871332" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1608009712999">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1508" height="324" key="GridCell.Tab.0.bottom" timestamp="1608517882629">
+      <screen x="0" y="25" width="1920" height="979" />
     </state>
+    <state width="1508" height="324" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.1920.979@0.25.1920.979" timestamp="1608517882629" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608009710041" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608009712999" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1608009712997">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1508" height="324" key="GridCell.Tab.0.center" timestamp="1608517882627">
+      <screen x="0" y="25" width="1920" height="979" />
     </state>
+    <state width="1508" height="324" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.1920.979@0.25.1920.979" timestamp="1608517882627" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608009710040" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1608009712997" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1608009712996">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1508" height="324" key="GridCell.Tab.0.left" timestamp="1608517882626">
+      <screen x="0" y="25" width="1920" height="979" />
     </state>
+    <state width="1508" height="324" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.1920.979@0.25.1920.979" timestamp="1608517882626" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608009710035" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1608009712996" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1608009712998">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1508" height="324" key="GridCell.Tab.0.right" timestamp="1608517882628">
+      <screen x="0" y="25" width="1920" height="979" />
     </state>
+    <state width="1508" height="324" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.1920.979@0.25.1920.979" timestamp="1608517882628" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608009710041" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1608009712998" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1608009713006">
@@ -187,9 +207,14 @@
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1608009710046" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.807@0.25.1440.807" timestamp="1608009713005" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607916491133">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="607" height="362" key="documentation.popup.size" timestamp="1608252423877">
+      <screen x="0" y="25" width="1920" height="979" />
     </state>
+    <state width="607" height="362" key="documentation.popup.size/-1440.25.1440.875/0.25.1920.979@0.25.1920.979" timestamp="1608252423877" />
+    <state x="513" y="238" width="894" height="736" key="search.everywhere.popup" timestamp="1608252363748">
+      <screen x="0" y="25" width="1920" height="979" />
+    </state>
+    <state x="513" y="238" width="894" height="736" key="search.everywhere.popup/-1440.25.1440.875/0.25.1920.979@0.25.1920.979" timestamp="1608252363748" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607916491133" />
   </component>
   <component name="XDebuggerManager">

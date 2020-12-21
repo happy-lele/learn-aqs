@@ -5,6 +5,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @Author happy_le
  * @date 2020/12/14 上午11:24
+ *
  * Semaphore用来控制同时访问某个特定资源的操作数量,
  * 或者同时执行某个指定操作的数量。还可以用来实现某种资源池限制，或者对容器施加边界。
  * (假设有10个人在银行办理业务，只有2个工作窗口)。
